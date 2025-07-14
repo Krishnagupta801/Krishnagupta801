@@ -1,48 +1,81 @@
-# 🎨 Color Detection using Python
-
-A simple Python project to detect and identify colors from any image using OpenCV and pandas.  
-Click anywhere on the image to see the color name and its RGB values.
+<h1 align="center">Hi there 👋, I'm Krishna Gupta</h1>
+<h3 align="center">B.Tech in Computer Science & Engineering | AKTU Kanpur | Passionate about AI, ML, and Backend Development</h3>
 
 ---
 
-## ✨ Features
-✅ Detect color by clicking on any part of the image  
-✅ Displays color name and RGB values  
-✅ Fast and lightweight – works with any image  
-✅ Easy to customize and extend
+## 📍 About Me
+- 🎓 B-Tech in Computer Science & Engineering (Expected: 2026)
+- 🏫 Dr. A.P.J. Abdul Kalam Technical University, Kanpur, Uttar Pradesh
+- 📫 Reach me at: **guptakrishna5713@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/krishna-gupta-b28aa0250)
 
 ---
 
-## 🛠 Technologies Used
-- **Python**
-- **OpenCV** – for image processing
-- **pandas** – to handle the color data from CSV
-- (Optional) **NumPy** – for further processing
+## 💻 Technical Skills
+- **Languages:** Java, Python, C, C++, JavaScript
+- **Frameworks & Libraries:** Pandas, NumPy, TensorFlow, Scikit-learn, Matplotlib, Seaborn
+- **Backend:** FastAPI, Flask, Django, Node.js, Kafka
+- **Databases & Tools:** MySQL, SQLite, Power BI, Tableau, Excel
+- **Platforms & IDEs:** PyCharm, Jupyter Notebook, VS Code, IntelliJ IDEA
+- **Other:** Data Structures & Algorithms (DSA), Competitive Programming
 
 ---
 
+## 🚀 Projects
+
+### 🛍 Customer Purchase Prediction *(Python, Flask, Scikit-learn, Pandas)*
+- Built an ML model to predict customer purchases.
+- Preprocessed data using Pandas & NumPy.
+- Deployed real-time predictions via Flask API.
+
+### 📊 Real-time Data Analytics Dashboard *(FastAPI, Apache Spark, Kafka, PostgreSQL)*
+- Designed a dashboard to monitor live system metrics.
+- Streamed data using Kafka.
+- High-performance backend built with FastAPI.
+
+### 🤖 AI-Powered Resume Analyzer *(Python, TensorFlow, NLP, Streamlit)*
+- Created an AI app to analyze resumes based on job descriptions.
+- Used NLP for keyword extraction & semantic analysis.
+- Built interactive web app with Streamlit.
+
 ---
 
-## ⚙ How it Works
-1. Load the color database from `colors.csv`.
-2. Load an image.
-3. Wait for a mouse click on the image.
-4. Capture RGB values of the clicked pixel.
-5. Find the closest color name by comparing with the CSV data.
-6. Display the color name and RGB values on the image.
+## 📚 Relevant Coursework
+- Data Structures & Algorithms (DSA)
+- Database Management Systems (DBMS)
+- Object-Oriented Programming (OOP)
+- Operating Systems (OS)
+- Computer Networks (CN)
 
 ---
 
-## 🚀 Installation & Run
-1. Clone this repository:
-bash
-git clone https://github.com/Krishnagupta801/color-detection-python.git
-cd color-detection-python
+## 🧰 Soft Skills
+- ✅ Strong Problem-Solving Abilities
+- ✅ Effective Communication
+- ✅ Team Collaboration & Leadership
+- ✅ Adaptability & Quick Learning
+- ✅ Time Management & Organization
 
+---
 
-If you'd like,  
-✅ I can also prepare a matching **LICENSE file**,  
-✅ Add a **requirements.txt**,  
-✅ Or create a **demo GIF** and help upload it.
+## 🌱 Currently Learning
+- Advanced Machine Learning & Deep Learning
+- Distributed Systems & Microservices
+- Cloud Technologies (AWS, Docker, Kubernetes)
 
-> Let me know if you want me to do any of these! 🚀
+---
+
+## 📫 Contact
+- **Email:** guptakrishna5713@gmail.com
+- **LinkedIn:** [Krishna Gupta](https://www.linkedin.com/in/krishna-gupta-b28aa0250)
+
+---
+
+## ⭐ Quote
+> “Strive not to be a success, but rather to be of value.” — Albert Einstein
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishnagupta&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
